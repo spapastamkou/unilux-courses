@@ -93,13 +93,17 @@ Read the part 5.b and answer the first, thirs and fifth questions for the third 
 
 If necessary, half of the group can work on 5.a and the other half on 5.b. Combine your findings to make a group presentation of 5 mins. 
 
-## Assignment 7
+## Assignment 7 - Event-based, crowdsourced, born digital archive
 
-A web event-based and crowdsourced archive: September 11 Digital Archive https://911digitalarchive.org/ 
+You will work with the [September 11 Digital Archive](https://911digitalarchive.org/) 
 
-With the help of the About page of the website gather context about the creation of the archive: when, by whom, what for, and how was it created?
-Check the perimeter of the carchived material: types of resources and collections 
-Inspect the archived materials at the level of the item (an elementary object of the archive). Try to evaluate as a historian at least 4 or 5 (each member of the group could pick one or two). Could you reuse these items in a historical work? If not, why?     
+Inspect the About page of the website to gather context about the creation of the archive: when, by whom, what for, and how was it created?
+
+Check the perimeter of the archived material: what types of resources were contributed? in what collections are they organized? 
+
+Inspect the archived materials at the level of the item (an elementary object of the archive). Try to evaluate as a historian at least 4 or 5 archived resources (each member of the group could pick one or two). Would you be able to reuse these items in a historical work? If not, why? 
+
+Present your findings in a five minute oral presentation.     
 
 
 > IMPORTANT! 
