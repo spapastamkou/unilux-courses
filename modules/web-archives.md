@@ -127,5 +127,7 @@ Brügger, Niels and Ralph Schroeder (eds.). *The Web as History. Using Web Archi
 
 Musiani, Francesca, Camille Paloque-Bergès, Valérie Schafer, et Benjamin G. Thierry. *Qu’est-ce qu’une archive du web ?*. Marseille: OpenEdition Press, 2019. DOI: [https://doi.org/10.4000/books.oep.8713](https://doi.org/10.4000/books.oep.8713).
 
+Internet Archive. "How to use the Internet Archive". YouTube Video. 22:50 minutes. [https://youtu.be/dCBy9z3f9Mw](https://youtu.be/dCBy9z3f9Mw)
+
 
 
