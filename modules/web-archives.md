@@ -10,7 +10,7 @@ The assignments that follow below have vocation to offer a hands-on introduction
 
 Please read this article: 
 
-Chris Stokel-Walker. ["We're losing our digital history. Can the Internet Archive save it?"](https://www.bbc.com/future/article/20240912-the-archivists-battling-to-save-the-internet){target="_blank"}. BBC website [htps://www.bbc.com](htps://www.bbc.com). 16 September 2024 
+Chris Stokel-Walker. ["We're losing our digital history. Can the Internet Archive save it?"](https://www.bbc.com/future/article/20240912-the-archivists-battling-to-save-the-internet). BBC website [htps://www.bbc.com](htps://www.bbc.com). 16 September 2024 
 
 *Estimated reading time: 16 mins*
 
@@ -33,7 +33,7 @@ After reading the article, prepare a short oral presentation of 5 minutes. The p
 
 ## Assignment 2 - Luxembourg Web Archive, an overview
 
-Please take a look at [the page of the website of the Bibliothèque nationale du Luxembourg offering general information on archiving the luxembourgish web](https://bnl.public.lu/en/offres-numeriques/webarchive.html){target="_blank"} and then study thoroughly the presentation of the [Luxembourg Web Archive](https://www.webarchive.lu/){target="_blank"}.  
+Please take a look at [the page of the website of the Bibliothèque nationale du Luxembourg offering general information on archiving the luxembourgish web](https://bnl.public.lu/en/offres-numeriques/webarchive.html) and then study thoroughly the presentation of the [Luxembourg Web Archive](https://www.webarchive.lu/).  
 
 After reading the article, prepare a short oral presentation of 5 minutes. The presentation can focus on the aspects that the group finds most important. However, do not forget to consider the following questions:   
 
@@ -54,9 +54,9 @@ After reading the article, prepare a short oral presentation of 5 minutes. The p
 
 ## Assignment 3 - Archiving luxembourg.lu
 
-Explore the evolution of the official portal of the Grand Duchy of Luxembourg via the history of its URL. Follow the instructions provided in [part 3.b "Exploring Luxembourg web content"](https://ranke2.uni.lu/u/webarchives/#assignment-03-webarchive-national-dimension){target="_blank"} of the lesson "The Web as a historical source; what historians need to know" of Ranke.2. You will work on selected parts of the proposed exercice as we suggest below: 
+Explore the evolution of the official portal of the Grand Duchy of Luxembourg via the history of its URL. Follow the instructions provided in [part 3.b "Exploring Luxembourg web content"](https://ranke2.uni.lu/u/webarchives/#assignment-03-webarchive-national-dimension) of the lesson "The Web as a historical source; what historians need to know" of Ranke.2. You will work on selected parts of the proposed exercice as we suggest below: 
 
-Go to the Wayback machine of the [Internet archive](https://web.archive.org/){target="_blank"} and enter the following query: `www.luxembourg.lu`. You should arrive on the page https://web.archive.org/web/*/www.luxembourg.lu. 
+Go to the Wayback machine of the [Internet archive](https://web.archive.org/) and enter the following query: `www.luxembourg.lu`. You should arrive on the page https://web.archive.org/web/*/www.luxembourg.lu. 
 
 Inspect the page of the results.
 
@@ -79,7 +79,7 @@ Your group will work with the following audiovisual resource available on YouTub
 
 Deutsche Welle Documentary. "Luxembourg: Poverty in Europe's wealthiest country". YouTube Video. 28:25 minutes. 30 April 2024. https://youtu.be/d_XVU7VsG4Y 
 
-This short documentary on poverty in Luxembourg and available on the online social network YouTube has gathered more than 2 000 comments. Imagine that you are interested in working on the transnational perceptions of the poverty in Luxembourg, and that comments posted on online social networks are sources to you. You have the possibility, and the tools (specialized software or a programming language), to collect these comments in form of structured data, and apply various methods of analysis, including quantitative. For this assignment you can use [Communalytic](https://communalytic.org/){target="_blank"}, an easy-to-use online service even for total beginners. At least one member of your group should open a (free) account of EDU type (for teaching and learning). For this, you need to have a Gmail user account. Once you have signed-in, go to [My Datasets](https://edu.communalytic.org/datasets/){target="_blank"} and click on the box YouTube/Comments. Let yourself be guided by the instructions that are displayed to start collecting the data. This involves naming your dataset and informing the URL of the video in the dialogue box. Launch the collect process. Once your dataset is ready, you get notified by email. Download your dataset as .csv file. Open it and inspect the data and metadata. 
+This short documentary on poverty in Luxembourg and available on the online social network YouTube has gathered more than 2 000 comments. Imagine that you are interested in working on the transnational perceptions of the poverty in Luxembourg, and that comments posted on online social networks are sources to you. You have the possibility, and the tools (specialized software or a programming language), to collect these comments in form of structured data, and apply various methods of analysis, including quantitative. For this assignment you can use [Communalytic](https://communalytic.org/), an easy-to-use online service even for total beginners. At least one member of your group should open a (free) account of EDU type (for teaching and learning). For this, you need to have a Gmail user account. Once you have signed-in, go to [My Datasets](https://edu.communalytic.org/datasets/) and click on the box YouTube/Comments. Let yourself be guided by the instructions that are displayed to start collecting the data. This involves naming your dataset and informing the URL of the video in the dialogue box. Launch the collect process. Once your dataset is ready, you get notified by email. Download your dataset as .csv file. Open it and inspect the data and metadata. 
 
 Prepare a short oral presentation of 5 minutes and do not forget to consider the following questions: 
 
@@ -97,7 +97,7 @@ Prepare a short oral presentation of 5 minutes and do not forget to consider the
 
 ## Assignment 5 - Fluidity of the web  
 
-The web archives are archives in constant motion rather than fixed archived resources. Check the lesson on Wikipedia as a source of historical knowledge of the collection of Ranke.2. Pick the [assignment 4](https://ranke2.uni.lu/u/wikipedia-historical-source/#assignment-04-behind-scenes.en){target="_blank"} dealing with the narratives and, by consequence, the web pages in constant motion. 
+The web archives are archives in constant motion rather than fixed archived resources. Check the lesson on Wikipedia as a source of historical knowledge of the collection of Ranke.2. Pick the [assignment 4](https://ranke2.uni.lu/u/wikipedia-historical-source/#assignment-04-behind-scenes.en) dealing with the narratives and, by consequence, the web pages in constant motion. 
 
 First read the introduction of assignment 4, and then focus on sub-assignment 4.b (skip 4.a). Experiment with the proposed exercice. 
 
@@ -111,7 +111,7 @@ Prepare an oral presentation of 5 minutes of the task you had to do, how your gr
 
 ## Assignment 6 - Publishing family and personal archives in the web 
 
-Go to the lesson "The Web as a historical source; what historians need to know" of the colection of Ranke.2 and focus on the [assignment 5 on family and personal web archives](https://ranke2.uni.lu/u/webarchives/#assignment-05-Micro-archiving-family){target="_blank"}. 
+Go to the lesson "The Web as a historical source; what historians need to know" of the colection of Ranke.2 and focus on the [assignment 5 on family and personal web archives](https://ranke2.uni.lu/u/webarchives/#assignment-05-Micro-archiving-family). 
 
 Read the part 5.a and focus on the case it presents. Skip the very last exercice that invites you to make a Google research to find more archives - we do not need to go furtehr today.
 
@@ -120,7 +120,7 @@ Based on your reading, what are the most important challenges this case study hi
 Then read the part 5.b and answer the questions copied below: 
 - What kind of content have you uploaded or posted on the web?
 - Are you represented with your name, photo and profile on a social media platform? If so, which one(s)?
-- Can you trace this back with the [Wayback Machine](https://web.archive.org/){target="_blank"}?
+- Can you trace this back with the [Wayback Machine](https://web.archive.org/)?
 - Does a text, video, image or audio file created by you feature on a specific website or web page?
 - Is part of your personal life and history also documented in analogue form through photo albums, handwritten letters, postcards or diaries?
 
@@ -137,7 +137,7 @@ Combine your findings to make a group presentation of 5 minutes.
 
 ## Assignment 7 - Crowdsourced born digital archives
 
-You will work with the [September 11 Digital Archive](https://911digitalarchive.org/){target="_blank"}. 
+You will work with the [September 11 Digital Archive](https://911digitalarchive.org/). 
 
 Inspect the About page of the website to gather context about the creation of the archive: when, why, by whom, what for, and how was it created?
 
@@ -152,7 +152,7 @@ Present your findings in a five-minute oral presentation.
 
 1. Understand in what conditions event-based born digital archives are created  
 2. Identify the factors that help estimate the historical value of online archival materials
-     
+
 
 ## Suggested readings to learn more on web archives 
 
