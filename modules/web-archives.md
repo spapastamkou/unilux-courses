@@ -45,6 +45,12 @@ After reading the article, prepare a short oral presentation of 5 minutes. The p
 
 4. What is the network of the BnL in leading the mission of archiving the web at a national and international level? 
 
+### After completing this assignment... 
+... you should be able to: 
+
+1. Have a global view on the policies of institutional web archiving in Luxembourg
+2. Be familiar with the main actors of web archiving in Luxembourg
+
 
 ## Assignment 3 - Archiving luxembourg.lu
 
@@ -59,6 +65,12 @@ Inspect the page of the results.
 3. In the timeline that gives access to the archived pages, pick the very first and the very last. What are the differences and the similarities you notice once you reach the archived pages? 
 
 Report your findings in a 5 mins presentation. You can collaborate with the group of the assignment 2 if necessary and, in any case, your group should present your findings after the group of assignment 2.  
+
+### After completing this assignment... 
+... you should be able to: 
+
+1. Explore the archived resources of Luxembourg heritage on Internet Archive
+2. Be familiar with the interface of Internet Archive
     
 
 ## Assignment 4 - Collecting social media (YouTube) data
@@ -76,6 +88,13 @@ Prepare a short oral presentation of 5 minutes and do not forget to consider the
 3. Explore the dataset you obtained (the .csv file with the exported data): what do the data look like, which categories of data you obtained, how you imagine using them?  
 4. Explore the Dataset Overview, and browse the other types of analysis that are embedded in Communalytic: (Toxicity, Sentiment, Topic, Network Analysis). You can pick one or two to have time to inspect the results in detail. Explain the most important findings in your own words and describe in what ways these results are visualized and what they tell us. 
 
+### After completing this assignment... 
+... you should be able to: 
+
+1. Have led a hands-on experience with collecting online social networks data 
+2. Understand the type of workflows, tools and analysis involved in these operations
+
+
 ## Assignment 5 - Fluidity of the web  
 
 The web archives are archives in constant motion rather than fixed archived resources. Check the lesson on Wikipedia as a source of historical knowledge of the collection of Ranke.2. Pick the [assignment 4](https://ranke2.uni.lu/u/wikipedia-historical-source/#assignment-04-behind-scenes.en){target="_blank"} dealing with the narratives and, by consequence, the web pages in constant motion. 
@@ -83,6 +102,12 @@ The web archives are archives in constant motion rather than fixed archived reso
 First read the introduction of assignment 4, and then focus on sub-assignment 4.b (skip 4.a). Experiment with the proposed exercice. 
 
 Prepare an oral presentation of 5 minutes of the task you had to do, how your group worked, and what your group's main findings are.
+
+### After completing this assignment... 
+... you should be able to: 
+
+1. Understand how collaborative technologies shape the moving nature of web content
+
 
 ## Assignment 6 - Publishing family and personal archives in the web 
 
@@ -103,6 +128,13 @@ If necessary, half of the group can work on 5.a and the other half on 5.b.
 
 Combine your findings to make a group presentation of 5 minutes. 
 
+### After completing this assignment... 
+... you should be able to: 
+
+1. Identify some of the factors that may decide the digital life of a web resources 
+2. Understand how your digital identity can be part of the history of the web
+
+
 ## Assignment 7 - Crowdsourced born digital archives
 
 You will work with the [September 11 Digital Archive](https://911digitalarchive.org/){target="_blank"}. 
@@ -113,11 +145,14 @@ Check the perimeter of the archived material: what types of resources were contr
 
 Inspect the archived materials at the level of the item (an elementary object of the archive: a photo). Try to evaluate as a historian at least 4 or 5 archived resources (each member of the group could pick one or two), if possible from different collections of the archive. Check, for example, the collection "First Responders". Would you be able to reuse these items in a historical work? If not, why? 
 
-Present your findings in a five-minute oral presentation.     
+Present your findings in a five-minute oral presentation. 
 
+### After completing this assignment... 
+... you should be able to: 
 
-> IMPORTANT! 
-For this session, your Markdonw/GitHub assignment will be a short report on your group's work. You can write the group's report in a collaborative way (based on the presentation your group made) and deliver the same text for all the group members.
+1. Understand in what conditions event-based born digital archives are created  
+2. Identify the factors that help estimate the historical value of online archival materials
+     
 
 ## Suggested readings to learn more on web archives 
 
@@ -128,6 +163,10 @@ Brügger, Niels and Ralph Schroeder (eds.). *The Web as History. Using Web Archi
 Musiani, Francesca, Camille Paloque-Bergès, Valérie Schafer, et Benjamin G. Thierry. *Qu’est-ce qu’une archive du web ?*. Marseille: OpenEdition Press, 2019. DOI: [https://doi.org/10.4000/books.oep.8713](https://doi.org/10.4000/books.oep.8713).
 
 Internet Archive. "How to use the Internet Archive". YouTube Video. 22:50 minutes. [https://youtu.be/dCBy9z3f9Mw](https://youtu.be/dCBy9z3f9Mw)
+
+
+> IMPORTANT! 
+For this session, your Markdonw/GitHub assignment will be a short report on your group's work. You can write the group's report in a collaborative way (based on the presentation your group made) and deliver the same text for all the group members.
 
 
 
