@@ -51,6 +51,8 @@ After reading the article, prepare a short oral presentation of 5 minutes. The p
 1. Have a global view on the policies of institutional web archiving in Luxembourg
 2. Be familiar with the main actors of web archiving in Luxembourg
 
+> A variation of this exercice can be done using the [Portuguese web archive](https://arquivo.pt/).  
+
 
 ## Assignment 3 - Archiving luxembourg.lu
 
