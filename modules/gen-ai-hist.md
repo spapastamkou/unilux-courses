@@ -1,8 +1,8 @@
 --- 
-title: Intelligence artificielle générative - usages potentiels et défis pour les historiens et les historiennes
+title: Generative Artificial Intelligence - An Introduction for Historians 
 author: Sofia Papastamkou
-slug: ia-hist
-date: 2024-04-30 
+slug: gen-ai-hist
+date: 2024-11-08
 ---
 
 ## Plan de la leçon  
