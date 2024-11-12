@@ -25,7 +25,7 @@ GPT: an architecture of machine learning (basically, data and algorithms). It ca
 
 The assignments that follow below have vocation to offer a hands-on introduction to the generative pretrained transformers for historians. They should ideally be done in groups of three, or four if necessary.
 
-## Interrogate a national narrative based on a corpus of press articles 
+## Interrogate a national narrative based on a corpus of press articles with the help of a GPT 
 
 This assignment was inspired by the following lesson of Programming Historian: Brousseau, Chantal. « Interrogating a National Narrative with GPT-2 ». *Programming Historian* 11 (2022), https://doi.org/10.46430/phen0104 
 
@@ -45,7 +45,7 @@ You can then explore the data using prompts. For your prompts:
 
 - Make sure that you give concise and clear instructions 
 - Ask one thing at the time and avoid long and complicated phrases
-- Ask informed questions: focs on actors (personalities, political parties...), on specific events that may have been decisive...
+- Ask informed questions: focus on actors (personalities, political parties...), on specific events that may have been decisive...
 - Ask plausible questions and avoid unrealistic scenarios, for example conspirational theories
 
  It is better of course to know details about the subject! Only then it is possible to gain knowledge on aspects we would not have observed otherwise. But for now, we can use some basic contextual information about the UK and explore the insights we can have with our data. 
@@ -55,7 +55,7 @@ Here are some questions that you could ask:
 - How is Brexit defined? 
 - What is the perception of the Conservatives? of the Tories?
 - How is a given key political personality described? 
-- Other question(s) you can think of?
+- Other question(s) you can think of? About international events, inter- or supra-national organizations... 
 
 You can also check [this part of the dedicated lesson](https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt#interrogating-our-model) for inspiration while interrogating the GPT.   
 
@@ -66,14 +66,43 @@ Formulate from three to five questions. Then observe the answers you obtain.
 	- If you had limited knowledge on Brexit, how do you feel you can build on the information you obtained? 
 	- If you had a certain level of knowledge on Brexit, do you have unexpected insights? 
 - How do you imagine using this kind of data in your research, for example to further interrogate your sources or while writing an essay
+- Do you think you would have the same quality of results if your corpus was composed by transcriptions of ancient Roman epigraphies or articles of Chinese newspapers on Brexit?  
 
 If you have time, reflect on the following extract:   
 
-"In a way, the output of GPT is various interpretations of a singular history being performed, and you are the critic meant to analyze and elucidate each performance. Are these performances completely accurate to their source material? No, but in their “inaccuracy” we can find new perspectives and expositions that differ from our own, which ultimately expands our understanding of the subject at hand." (In Brousseau, *op. cit.*).  
+"In a way, the output of GPT is various interpretations of a singular history being performed, and you are the critic meant to analyze and elucidate each performance. Are these performances completely accurate to their source material? No, but in their “inaccuracy” we can find new perspectives and expositions that differ from our own, which ultimately expands our understanding of the subject at hand." (In Brousseau, *op. cit.*). 
+
+Please prepare a short presentation (5-7 minutes for the rest of the class) and discuss your findings. 
+
+## Learn how to interrogate a large corpus of sources with a GPT
+
+Please use the following lesson of Programming Historian: Brousseau, Chantal. « Interrogating a National Narrative with GPT-2 ». *Programming Historian* 11 (2022), https://doi.org/10.46430/phen0104 
+
+Your task is to use a GPT your group selected as a tutor for helping you to understand the value of a given method - in this case, use a GPT for interrogating a corpus of historical sources - and the technical components you are likely to completely, or almost, ignore for the moment, but that you are likely to need to master in some time from now. Why you might need to do this? Because if you have a large corpus of sources you might find restrictions to use effectively GPTs available online (data size, cost of use etc). 
+
+In the limited time of this assignment, please: 
+
+- Ask to obtain a summary of the lesson. Don't by shy to specify that you are a beginner (if it is the case!) and that you may need a summary without a lot of technical terms.   
+- Focus on specific aspects to ask further clarification: 
+	- You can start by asking about things you are more familiar with or more curious about: how can you use a GPT for working with historical sources? 
+	- Explore technical specifications and requirements that are necessary for configurating your own environment (this is the object of the lesson)
+	- Ask for further explanations about things you might ignore or not have insufficient knowledge of. Technical terms are one such domain. A GPT could help you clarify things that a lesson cannot necessarily cover, since it focuses on one domain. 
+	- Ask how you should prepare your corpus (format etc): these things can be frequently overlooked or taken for granted, but now you have a GPT ready to answer all your questions.   
+
+For your prompts: 
+
+- Make sure that you give concise and clear instructions 
+- Ask one thing at the time and avoid long and complicated phrases
+
+Ask a maximum of five questions (for this assignment) so that you have time to process the answers. What do you observe? 
+- Did you find the information you were looking for? 
+- How do you judge the value of the answers? 
+	- if you did not know a lot when you started, do you feel empowered to go further? 
+	- if you had some knowledge about GPTs, do you feel you learned something useful that you might be able to apply?     
+
+## Apply digital source criticism to images generated with AI  
 
 
-
-## 
 Cite an image generated with AI: 
-Instructions following the APA citation style: https://library.senecapolytechnic.ca/apa/artificialintelligence 
+Instructions following the APA citation style: [https://library.senecapolytechnic.ca/apa/artificialintelligence](https://library.senecapolytechnic.ca/apa/artificialintelligence) 
 
