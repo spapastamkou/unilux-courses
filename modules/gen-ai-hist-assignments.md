@@ -25,7 +25,7 @@ GPT: an architecture of machine learning (basically, data and algorithms). It ca
 
 The assignments that follow below have vocation to offer a hands-on introduction to the generative pretrained transformers for historians. They should ideally be done in groups of three, or four if necessary.
 
-## Interrogate a national narrative based on a corpus of press articles with the help of a GPT 
+## Interrogate a corpus of press articles on Brexit with the help of a GPT 
 
 This assignment was inspired by the following lesson of Programming Historian: Brousseau, Chantal. « Interrogating a National Narrative with GPT-2 ». *Programming Historian* 11 (2022), https://doi.org/10.46430/phen0104 
 
