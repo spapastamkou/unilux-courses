@@ -5,7 +5,7 @@ slug: gen-ai-hist
 date: 2024-11-08
 ---
 
-## Plan de la leçon  
+## Lesson Plan  
 
 1. Qu'est-ce l'intelligence artificielle (IA)?
     - Définitions et bref historique de l'évolution de l'IA
@@ -20,7 +20,7 @@ date: 2024-11-08
     - Tâche pratique en groupe 2: questionner un GPT sur l'issue possible mais non réalisée d'un évènement historique
     - Présentations de 5 minutes et discussion collective sur ce que ces expériences impliquent pour la méthode historique  
    
-## Contenu 
+## Define AI
 
 1. Qu'est-ce l'intelligence artificielle (IA)?
     - Définitions et bref historique de l'évolution de l'IA 
@@ -33,10 +33,16 @@ date: 2024-11-08
         - *sociaux: travailleurs invisibles de l'IA*
         - *éthiques: biais, discrimination, domaines sensibles telle l'IA éducative ou toute IA menant à la prise d'action, de décision, de responsabilité (par ex.: IA militaire); données personnelles*    
         -*culturels: diversité linguistique vs domination de l'anglais dans les données d'entrainement*  
+
+## How it works
 2. Comment ça marche: comprendre les principes du fonctionnement de l'IA générative
 	- Dans la peau d'un transformeur génératif pré-entraîné: données d'entraînement, données d'instruction, algorithmes d'apprentissage, interface d'accès
 	- Le paysage des GPT disponibles à l'utilisation *(se concentrer essentiellement sur ChatGPT4 et MistralAI)*
 	- Tirer le meilleur parti d'un GPT: instructions (prompts) et contrôle critique des résultats *présenter la démarche itérative nécessaire pour obtenir de bons résultats; rappeler que l'utilité des résultats générés dépend du niveau de la connaissance qu'on a de ce qu'on cherche)* 
+
+## Exercices 
+
+### Reinvent a historical event
 3. En quoi l'IA peut-elle concerner les historiens et historiennes?
     - Tâche pratique en groupe 1: appliquer la critique des sources à des images générées par intelligence artificielle (fournies) *grille de lecture en cours d'élaboration; discuter de la notion d'authenticité de la source; notion d'hétérotopie pour l'analyse des images IA*
     - Tâche pratique en groupe 2: questionner un GPT sur l'issue possible mais non réalisée d'un évènement historique
@@ -63,7 +69,7 @@ A l'issue de la séance, les étudiants et étudiantes seront capables de:
 * instruire clairement un transformeur génératif préentraîné (GPT) afin de rechercher et d'obtenir des informations pertinentes 
 * analyser et évaluer de manière critique les informations générées par IA 
 
-## A lire, à voir
+## Reading/viewing suggestions
 
 ### Lectures obligatoires à consulter avant la séance
 **Consulter au choix de préférence pas moins que 5 ressources au total: 2 ressources introductives et au moins 1 ressource parmi celles indiquées pour chaque partie de la leçon.**
