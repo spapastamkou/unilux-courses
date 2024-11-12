@@ -74,7 +74,7 @@ If you have time, reflect on the following extract:
 
 Please prepare a short presentation (5-7 minutes for the rest of the class) and discuss your findings. 
 
-## Learn how to interrogate a large corpus of sources with a GPT
+## Ask a GPT to be your tutor for learning how to interrogate a large corpus of sources with a GPT
 
 Please use the following lesson of Programming Historian: Brousseau, Chantal. « Interrogating a National Narrative with GPT-2 ». *Programming Historian* 11 (2022), https://doi.org/10.46430/phen0104 
 
@@ -102,8 +102,42 @@ Ask a maximum of five questions (for this assignment) so that you have time to p
 
 ## Apply digital source criticism to images generated with AI  
 
-Photos generated with the prompt: "historienne qui travaille avec des sources historiques" on the 29th of April 2024 using the service [Picsart](https://picsart.com/create) but in French. 
+Your task is to work with a set of images created with generative AI showing portraits of female historians. These images were generated with the prompt: "historienne qui travaille avec des sources historiques" on the 29th of April 2024 using the French chapter of (the free version of) the service [Picsart](https://picsart.com/create). You are expected to **describe**, **contextualize** and **critically interpret** a selection of two or three images.
 
-Cite an image generated with AI: 
-Instructions following the APA citation style: [https://library.senecapolytechnic.ca/apa/artificialintelligence](https://library.senecapolytechnic.ca/apa/artificialintelligence) 
+Download the [dataset](https://github.com/spapastamkou/unilux-courses/blob/main/assets/data/historienne.zip). 
 
+Alternatively, it is possible that your group agrees on a prompt to create your own images using the free versions of image generators such as Picsart or [Pixlr](https://pixlr.com/). If you do this, please take care to document the process by noting the name of the service you use, the date, and the prompt. 
+
+First, gather information about the origin and the context of creation of the images. 
+
+- Who created the source (image)?
+- What type of source is it? 
+- Is the part of a collection, an archive... 
+- Why was it created (purpose)
+- When was it created
+
+Original format 
+Type of image: portrait / landscape / family / selfie / event 
+
+How was it created - here consider the digital caracter of the image  
+- Technical environment
+- Service provider 
+- Prompt 
+- Language
+
+Intellectual property: who is considered author and who detains the rights of exploitation of the image? 
+
+The second step is to provide a description of what (who) is represented and how the subject is represented (formal analysis). For this, you can also consider the format (size, orientation) of the image, the framing (centered, decentered, general plan, close-up...), the composition, the use of light and colours. 
+
+Finally, propose an interpetation of what you see taking into account your findings. How real are the representations and what might they reveal for our societies?
+
+Present your findings and discuss them with the rest of the class.   
+
+
+To cite an image generated with AI: instructions following the APA citation style: [https://library.senecapolytechnic.ca/apa/artificialintelligence](https://library.senecapolytechnic.ca/apa/artificialintelligence) 
+
+<!-- https://www.lemonde.fr/campus/article/2016/05/25/conseils-pour-analyser-une-image_4926285_4401467.html -->
+<!-- https://static.oc-static.com/prod/courses/files/analyser-une-image/Grille+Analyse.pdf  -->
+<!-- https://www.archives.gov/education/lessons/worksheets/analyze-a-photograph-intermediate -->
+<!-- https://pressbooks.library.yorku.ca/dhssinstructorsguide/chapter/historical-image-analysis/ -->
+<!--digital object def https://dictionary.archivists.org/entry/digital-object.html#:~:text=%5BA%5D%20digital%20object%20is%20an,is%20expressed%20in%20digital%20form.-->
