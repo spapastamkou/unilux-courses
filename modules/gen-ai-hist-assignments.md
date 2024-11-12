@@ -102,6 +102,7 @@ Ask a maximum of five questions (for this assignment) so that you have time to p
 
 ## Apply digital source criticism to images generated with AI  
 
+Photos generated with the prompt: "historienne qui travaille avec des sources historiques" on the 29th of April 2024 using the service [Picsart](https://picsart.com/create) but in French. 
 
 Cite an image generated with AI: 
 Instructions following the APA citation style: [https://library.senecapolytechnic.ca/apa/artificialintelligence](https://library.senecapolytechnic.ca/apa/artificialintelligence) 
