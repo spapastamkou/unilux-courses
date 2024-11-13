@@ -118,21 +118,18 @@ Alternatively, it is possible that your group agrees on a prompt to create your 
 First, gather information about the origin and the context of creation of the images. 
 
 - Who created the source (image)?
-- What type of source is it? 
-- Is the part of a collection, an archive... 
-- Why was it created (purpose)
-- When was it created
-
-Original format 
-Type of image: portrait / landscape / family / selfie / event 
-
-How was it created - here consider the digital caracter of the image  
-- Technical environment
-- Service provider 
-- Prompt 
-- Language
-
-Intellectual property: who is considered author and who detains the rights of exploitation of the image? 
+- What type of source (image) is it?
+	- Original format (materiality)
+	- Type of image (portrait / landscape / family / selfie / event) 
+- Is it part of a collection, an archive, other?  
+- Why was it created (purpose)? 
+- When was it created? 
+- How was it created? (Here, please consider the digital nature of the image)  
+	- Technical environment
+	- Service provider 
+	- Prompt 
+	- Language
+- Intellectual property: who is considered author and who detains the rights of exploitation of the image? 
 
 The second step is to provide a description of what (who) is represented and how the subject is represented (formal analysis). For this, you can also consider the format (size, orientation) of the image, the framing (centered, decentered, general plan, close-up...), the composition, the use of light and colours. 
 
