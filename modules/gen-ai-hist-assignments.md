@@ -46,7 +46,7 @@ If you need additional information about the Brexit, you can consult the [Wikipe
 
 First, [get the file of the data](/assets/data/brexit-articles-small.txt). Depending the GPT you selected, you may either attach the file through the discussion box or have to copy and paste them directly there. You can declare to the GPT that these are your input data and, if you want, provide some context - this will be your first prompt. 
 
-You can then explore the data using prompts. For your prompts: 
+You can then explore the data using instructions, that we call prompts. For your prompts: 
 
 - Make sure that you give concise and clear instructions 
 - Ask one thing at the time and avoid long and complicated phrases
@@ -58,8 +58,8 @@ You can then explore the data using prompts. For your prompts:
 
 Here are some questions that you could ask: 
 - How is Brexit defined? 
-- What is the perception of the Conservatives? of the Tories?
-- How is a given key political personality described? 
+- How do Conservatives perceive Brexit? What about the Tories?
+- How is a given key political personality described in relation with Brexit? 
 - Other question(s) you can think of? About international events, inter- or supra-national organizations... 
 
 You can also check [this part of the dedicated lesson](https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt#interrogating-our-model) for inspiration while interrogating the GPT.   
@@ -83,7 +83,7 @@ Please prepare a short presentation (5-7 minutes for the rest of the class) and 
 
 Please use the following lesson of Programming Historian: Brousseau, Chantal. « Interrogating a National Narrative with GPT-2 ». *Programming Historian* 11 (2022), https://doi.org/10.46430/phen0104 
 
-Your task is to use a GPT your group selected as a tutor for helping you to understand the value of a given method - in this case, use a GPT for interrogating a corpus of historical sources - and the technical components you are likely to completely, or almost, ignore for the moment, but that you are likely to need to master in some time from now. Why you might need to do this? Because if you have a large corpus of sources you might find restrictions to use effectively GPTs available online (data size, cost of use etc). 
+Your task is to use a GPT your group selected as a tutor for training you on how to use a GPT for interrogating a corpus of historical sources. The lesson deals with a lot of technical aspects as it shows how you can do this locally on your own machine, rather than using an online application. Why you might need to do this? If you have a large corpus of sources, it could be difficult to use effectively GPTs available online because of the size of your data, the possible cost for using certain services... For now, you can attach a limited importance to these parts of the lesson. Try to focus on understanding what the method involves (a workflow, a certain way to organize your historical data, technical environment, acquantance with a programming language...), rather than learning how to do this. Also, on understanding how a GPT may be useful during your work with historical sources. 
 
 In the limited time of this assignment, please: 
 
