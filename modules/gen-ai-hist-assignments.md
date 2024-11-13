@@ -148,10 +148,12 @@ How you can cite an image generated with AI in a written work following the APA 
 <!-- https://pressbooks.library.yorku.ca/dhssinstructorsguide/chapter/historical-image-analysis/ -->
 
 
-## Assignements - other ideas 
+## Assignments - other ideas 
 
 - Examine a historical event with counterfacts, e.g. what would have happened if a given historical evolution had not taken place. 
 - Converse with a historical personality
 - Complete your own qualitative reading of a historical document with a GPT-assisted exploration
+	- Winston Churchill, ["The Sinews of Peace" ('Iron Curtain' Speech)](https://www.nationalchurchillmuseum.org/sinews-of-peace-iron-curtain-speech.html), 5 March 1946
+	- Martin Luther King, Jr Day, [I have a dream](https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety) speech, 28 August 1963
 - Converse with a GPT following one of the ideas above. Then try the same conversation with another GPT and compare the results you obtain. 
 - Converse with a GPT following one of the ideas above. Then try the same conversation in another language and compare the results you obtain.  
