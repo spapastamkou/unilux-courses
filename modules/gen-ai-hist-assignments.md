@@ -115,6 +115,8 @@ Download the [dataset](https://github.com/spapastamkou/unilux-courses/blob/main/
 
 Alternatively, it is possible that your group agrees on a prompt to create your own images using the free versions of image generators such as Picsart or [Pixlr](https://pixlr.com/). If you do this, please take care to document the process by noting the name of the service you use, the date, and the prompt. 
 
+### Instructions 
+
 First, gather information about the origin and the context of creation of the images. 
 
 - Who created the source (image)?
@@ -131,17 +133,25 @@ First, gather information about the origin and the context of creation of the im
 	- Language
 - Intellectual property: who is considered author and who detains the rights of exploitation of the image? 
 
-The second step is to provide a description of what (who) is represented and how the subject is represented (formal analysis). For this, you can also consider the format (size, orientation) of the image, the framing (centered, decentered, general plan, close-up...), the composition, the use of light and colours. 
+The second step is to provide a description of what (who) is represented and how the subject is represented (formal analysis). For this, you can also consider the format (size, orientation) of the image, the framing (centered, decentered, general plan, close-up...), the composition, the use of light and colours. Please be attentive to details, they can be particularly important in the case og images generated with AI.  
 
-Finally, propose an interpetation of what you see taking into account your findings. How real are the representations and what might they reveal for our societies?
+Finally, propose an interpetation of what you see taking into account your findings. What might the representations reveal for the context of their inception and, essentially, on our societies? You could be helped if, during the process, you explore further prompts for generating images of historians, but this is optional. 
 
 Please prepare a short presentation (5-7 minutes for the rest of the class) and discuss your findings.   
 
 
-To cite an image generated with AI: instructions following the APA citation style: [https://library.senecapolytechnic.ca/apa/artificialintelligence](https://library.senecapolytechnic.ca/apa/artificialintelligence) 
+How you can cite an image generated with AI in a written work following the APA citation style: [https://library.senecapolytechnic.ca/apa/artificialintelligence](https://library.senecapolytechnic.ca/apa/artificialintelligence) 
 
 <!-- https://www.lemonde.fr/campus/article/2016/05/25/conseils-pour-analyser-une-image_4926285_4401467.html -->
 <!-- https://static.oc-static.com/prod/courses/files/analyser-une-image/Grille+Analyse.pdf  -->
 <!-- https://www.archives.gov/education/lessons/worksheets/analyze-a-photograph-intermediate -->
 <!-- https://pressbooks.library.yorku.ca/dhssinstructorsguide/chapter/historical-image-analysis/ -->
-<!--digital object def https://dictionary.archivists.org/entry/digital-object.html#:~:text=%5BA%5D%20digital%20object%20is%20an,is%20expressed%20in%20digital%20form.-->
+
+
+## Assignements - other ideas 
+
+- Examine a historical event with counterfacts, e.g. what would have happened if a given historical evolution had not taken place. 
+- Converse with a historical personality
+- Complete your own qualitative reading of a historical document with a GPT-assisted exploration
+- Converse with a GPT following one of the ideas above. Then try the same conversation with another GPT and compare the results you obtain. 
+- Converse with a GPT following one of the ideas above. Then try the same conversation in another language and compare the results you obtain.  
