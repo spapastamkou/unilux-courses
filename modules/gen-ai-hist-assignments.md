@@ -25,17 +25,22 @@ GPT: an architecture of machine learning (basically, data and algorithms). It ca
 
 The assignments that follow below have vocation to offer a hands-on introduction to the generative pretrained transformers for historians. They should ideally be done in groups of three, or four if necessary.
 
-## Interrogate a corpus of press articles on Brexit with the help of a GPT 
+Work in groups of 3 or 4. Please make sure you already have access to one GPT you can use for free. Note that, in some cases, you may have to create a (free) user account. 
+
+OpenAI Chat GPT: [https://chatgpt.com/](https://chatgpt.com/)
+Mistral AI: [https://chat.mistral.ai/](https://chat.mistral.ai/)
+Anthropic Claude: [https://www.anthropic.com/claude](https://www.anthropic.com/claude)
+Microsoft Copilot [https://copilot.microsoft.com/](https://copilot.microsoft.com/)
+
+## Assignement - Interrogate a corpus of press articles on Brexit with the help of a GPT 
 
 This assignment was inspired by the following lesson of Programming Historian: Brousseau, Chantal. « Interrogating a National Narrative with GPT-2 ». *Programming Historian* 11 (2022), https://doi.org/10.46430/phen0104 
 
-The approach is simplified and adapted to use with an online GPT. For this reason it uses only one small part of the initial data whose size (22.50 MB) proved to be difficult to handle by online GPTs (ChatGPT, for example was unable to charge it despite it being capable to receive files up to 50 MB; MistralAI does not accept files at all and the copied pasted data were not processed). For this reason, this assignment serves as an exploratory exercice for students to work with a set of sources and the results obtained while interrogating the GPT should be taken with caution. 
+The approach is simplified and adapted to use with an online GPT. For this reason, and given time constraints for working on the assignment in the classroom, it uses only one small part of the initial data whose size (22.50 MB) proved to be difficult to handle by online GPTs (ChatGPT, for example was unable to charge it despite it being capable to receive files up to 50 MB; MistralAI does not accept files at all and the copied pasted data were not processed). For this reason, this assignment serves as an exploratory exercice for students to work with a set of sources and the results obtained while interrogating the GPT should be taken with caution. 
 
 ### Instructions
 
-Work in groups of 3 or 4. Please make sure you already have access to one GPT you can use for free and note that, in some cases, you may have to create a (free) user account. 
-
-Your task is to explore a corpus of historical sources with the help of the GPT your group selected. In our case, the historical sources are articles from the British Press regarding Brexit (2016), the withdrawal of the United Kingdom from the European Union. Details about how the corpus was created are available in the lesson mentioned above. Please assign one of the group members to read them as this information is important for evaluating the source. Sum up and use this information during your group's presentation. Note that you will use only a small part of these data using the file we provide.
+Your task is to explore a corpus of historical sources with the help of the GPT your group selected. In our case, the historical sources are articles from the British Press regarding Brexit (2016), the withdrawal of the United Kingdom from the European Union. [Details about how the corpus was created](https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt#dataset) are available in the lesson mentioned above. Please assign one of the group members to read them as this information is important for evaluating the source. Sum up and use this information during your group's presentation. Note that you will use only a small part of these data using the file we provide.
 
 If you need additional information about the Brexit, you can consult the [Wikipedia notice on the event](https://en.wikipedia.org/wiki/Brexit); [a comprehensive timeline](https://www.consilium.europa.eu/en/brexit/) on the website of the EU Council and, eventually, [information regarding the technical implications of the UK's withdrawal](https://gouvernement.lu/en/dossiers/2019/brexit.html) on the website of the government of the Grand Duchy of Luxembourg.  
 
@@ -74,7 +79,7 @@ If you have time, reflect on the following extract:
 
 Please prepare a short presentation (5-7 minutes for the rest of the class) and discuss your findings. 
 
-## Ask a GPT to be your tutor for learning how to interrogate a large corpus of sources with a GPT
+## Assignment - Ask a GPT to be your tutor for learning how to interrogate a large corpus of sources with a GPT
 
 Please use the following lesson of Programming Historian: Brousseau, Chantal. « Interrogating a National Narrative with GPT-2 ». *Programming Historian* 11 (2022), https://doi.org/10.46430/phen0104 
 
@@ -100,7 +105,7 @@ Ask a maximum of five questions (for this assignment) so that you have time to p
 	- if you did not know a lot when you started, do you feel empowered to go further? 
 	- if you had some knowledge about GPTs, do you feel you learned something useful that you might be able to apply?     
 
-## Apply digital source criticism to images generated with AI  
+## Assignment - Apply digital source criticism to images generated with AI  
 
 Your task is to work with a set of images created with generative AI showing portraits of female historians. These images were generated with the prompt: "historienne qui travaille avec des sources historiques" on the 29th of April 2024 using the French chapter of (the free version of) the service [Picsart](https://picsart.com/create). You are expected to **describe**, **contextualize** and **critically interpret** a selection of two or three images.
 
