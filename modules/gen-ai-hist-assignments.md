@@ -103,7 +103,9 @@ Ask a maximum of five questions (for this assignment) so that you have time to p
 - Did you find the information you were looking for? 
 - How do you judge the value of the answers? 
 	- if you did not know a lot when you started, do you feel empowered to go further? 
-	- if you had some knowledge about GPTs, do you feel you learned something useful that you might be able to apply?     
+	- if you had some knowledge about GPTs, do you feel you learned something useful that you might be able to apply? 
+
+Please prepare a short presentation (5-7 minutes for the rest of the class) and discuss your findings.     
 
 ## Assignment - Apply digital source criticism to images generated with AI  
 
@@ -136,7 +138,7 @@ The second step is to provide a description of what (who) is represented and how
 
 Finally, propose an interpetation of what you see taking into account your findings. How real are the representations and what might they reveal for our societies?
 
-Present your findings and discuss them with the rest of the class.   
+Please prepare a short presentation (5-7 minutes for the rest of the class) and discuss your findings.   
 
 
 To cite an image generated with AI: instructions following the APA citation style: [https://library.senecapolytechnic.ca/apa/artificialintelligence](https://library.senecapolytechnic.ca/apa/artificialintelligence) 
