@@ -4,7 +4,7 @@ author: Sofia Papastamkou
 slug: gen-ai-hist
 date: 2024-11-08
 ---
-
+<!--
 ## Lesson Plan  
 
 1. Qu'est-ce l'intelligence artificielle (IA)?
@@ -154,7 +154,7 @@ Robertson, Adi. « Your favorite Twitter bot might die next week ». *The Ve
 Storchan, Victor. « 10 points sur la géopolitique de l’IA générative ». *Le Grand Continent*, 8 septembre 2023 https://legrandcontinent.eu/fr/2023/09/08/10-points-sur-la-geopolitique-de-lia-generative/ 
 
 
-
+--> 
 
 
 
