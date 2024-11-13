@@ -32,7 +32,7 @@ Mistral AI: [https://chat.mistral.ai/](https://chat.mistral.ai/)
 Anthropic Claude: [https://www.anthropic.com/claude](https://www.anthropic.com/claude)
 Microsoft Copilot [https://copilot.microsoft.com/](https://copilot.microsoft.com/)
 
-## Assignement - Interrogate a corpus of press articles on Brexit with the help of a GPT 
+## Assignment - Interrogate a corpus of press articles on Brexit with the help of a GPT 
 
 This assignment was inspired by the following lesson of Programming Historian: Brousseau, Chantal. « Interrogating a National Narrative with GPT-2 ». *Programming Historian* 11 (2022), https://doi.org/10.46430/phen0104 
 
