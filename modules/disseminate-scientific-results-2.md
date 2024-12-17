@@ -12,7 +12,7 @@ Joseph Rudman, “Teaching Computers and the Humanities Courses: A Survey,” _C
 
 What are your remarks once you reach the URL that is provided above? Please list what is necessary to do to access the full content of the article. 
 
-If you are unable to use the article, the instructors of the class will provide [a copy](/assets/rudman-1987-teaching-computers-and-the-humanities-courses-a-survey.pdf) of it. Please read the article and pay attention to the following points: 
+If you are unable to use the article, the instructors of the class will provide [a copy](/assets/data/rudman-1987-teaching-computers-and-the-humanities-courses-a-survey.pdf) of it. Please read the article and pay attention to the following points: 
 
 - What kind of data are described in the article?
 - Does the article provide direct access to any data? Pay attention to past practices that may be described in the text. 
