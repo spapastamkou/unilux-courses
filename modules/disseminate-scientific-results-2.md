@@ -22,7 +22,7 @@ If you are unable to use the article, the instructors of the class will provide 
 
 ## Assignment 2
 
-Pick one of the articles from the list below: [List of data articles](#list-of-data-articles).
+Pick one of the articles from the list below: [List of data articles](#list-of-articles).
 
 Examine the structure of the article and pay attention to the following elements: 
 
@@ -55,7 +55,7 @@ Hitchcock, Tim, Adam Crymble, and Louise Falcini. “Loose, idle and disorderly:
 
 
 
-## List of data articles  
+## List of articles  
 
 Futselaar, Ralf, and Milan Van Lange. “Dialects of Discord. Changing vocabularies in the Dutch Cruise Missile discussion.” _Journal of Digital History_ 2 (1) (2022). [https://doi.org/10.1515/JDH-2022-0006?locatt=label:JDHFULL](https://doi.org/10.1515/JDH-2022-0006?locatt=label:JDHFULL) 
 
@@ -64,10 +64,7 @@ Stapel, Rombert. "Historical Atlas of the Low Countries: A gis Dataset of Locali
 Chen, Junhua, Xiaolu Yang, Meijun Wang, and Min Su. “Evolution of China’s interaction with Middle Eastern countries under the Belt and Road Initiative”. _PLOS One_ November 9, 2023
 [https://doi.org/10.1371/journal.pone.0293426](https://doi.org/10.1371/journal.pone.0293426) 
 
-Schon, Justin, and Jeffrey C. Johnson. “How inter-state amity and animosity complement migration networks to drive refugee flows: A multi-layer network analysis, 1991–2016”. _PLOS One_ January 27, 2021 [https://doi.org/10.1371/journal.pone.0245712](https://doi.org/10.1371/journal.pone.0245712)  
-
-
-## List of other articles   
+Schon, Justin, and Jeffrey C. Johnson. “How inter-state amity and animosity complement migration networks to drive refugee flows: A multi-layer network analysis, 1991–2016”. _PLOS One_ January 27, 2021 [https://doi.org/10.1371/journal.pone.0245712](https://doi.org/10.1371/journal.pone.0245712)   
 
 Joseph Rudman, “Computer Courses for Humanists: A Survey,” _Computers and the Humanities_ 12 (3) (September 1, 1978): 253–79, [https://doi.org/10.1007/BF02400087](https://doi.org/10.1007/BF02400087)
 
