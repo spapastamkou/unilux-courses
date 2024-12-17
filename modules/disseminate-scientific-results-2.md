@@ -34,7 +34,7 @@ Chen, Junhua, Xiaolu Yang, Meijun Wang, and Min Su. “Evolution of China’s in
 Schon, Justin, and Jeffrey C. Johnson. “How inter-state amity and animosity complement migration networks to drive refugee flows: A multi-layer network analysis, 1991–2016”. P_LOS One_ January 27, 2021 [https://doi.org/10.1371/journal.pone.0245712](https://doi.org/10.1371/journal.pone.0245712)  
 
 
-## List of  
+## List of other articles   
 
 Joseph Rudman, “Computer Courses for Humanists: A Survey,” _Computers and the Humanities_ 12 (3) (September 1, 1978): 253–79, [https://doi.org/10.1007/BF02400087](https://doi.org/10.1007/BF02400087)
 
