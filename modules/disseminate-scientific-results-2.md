@@ -20,7 +20,40 @@ If you are unable to use the article, the instructors of the class will provide 
 - If the article does not provide direct access to data, what is the solution that is likely to be applied? 
 - Given what you heard in the class for the new forms of scientific publishing related to the open science movement and policies, can you comment the context the article points to? 
 
-## Assignment 2       
+## Assignment 2
+
+Pick one of the articles from the list below: [List of data articles](#list-of-data-articles).
+
+Examine the structure of the article and pay attention to the following elements: 
+
+- Number of authors
+- Information on other contributors: are there other distinct roles mentioned (for example: translator or other)
+- Do you have full access to the text and the data? 
+- How is the article structured? 
+- How is the critical apparatus (notes, bibliography) integrated in the text?
+- How are primary sources/data integrated in the text? If they are accessible, please note where the dataset is hosted. Could you reuse them?
+- Are there secondary data available? For example, visualizations, maps, lists, etc.
+- Do you have information about the peer review process that guarantees the scientific quality of the article (reviewers names, access to reviews...)
+- Is there a licence applied to the article?
+- Explore the tabs around the article: 
+	- what kind of information do they provide?
+	- what possibilities do they provide?
+
+## Assignment 3 
+
+The references below provide access to the different layers of a scientific work (dataset, article on data methodology, article with traditional scientific narrative) published in three different venues: 
+
+Crymble, Adam, Louise Falcini, and Tim Hitchcock. “Vagrant Lives: 14,789 Vagrants Processed by Middlesex County, 1777-1786” (version 1.2). _Zenodo_, 16 September 2015. https://doi.org/10.5281/zenodo.1217600 
+
+Hitchcock, Tim, Adam Crymble, and Louise Falcini. “Vagrant lives: 14,789 vagrants processed by the county of Middlesex, 1777–1786.” _Journal of Open Humanities Data_ 1 (2015). DOI: http://dx.doi.org/10.5334/johd.1 
+
+Hitchcock, Tim, Adam Crymble, and Louise Falcini. “Loose, idle and disorderly: vagrant removal in late eighteenth-century Middlesex.” _Social History_ 39 (4) (2014): 509-527. Copy made available by the authors on Figshare repository. https://sussex.figshare.com/articles/journal_contribution/Loose_idle_and_disorderly_vagrant_removal_in_late_eighteenth-century_Middlesex/23411330?file=41133491  
+
+1. Take a look to each of these publications and provide a short description. Combine them and present very briefly the different facets of scientific work they represent. 
+
+2. Pick an article of your choice from the [Journal of Digital History](https://journalofdigitalhistory.org/en). Compare its structure with the 3-facet work described above. Can you spot differences and common features?
+
+
 
 ## List of data articles  
 
@@ -31,7 +64,7 @@ Stapel, Rombert. "Historical Atlas of the Low Countries: A gis Dataset of Locali
 Chen, Junhua, Xiaolu Yang, Meijun Wang, and Min Su. “Evolution of China’s interaction with Middle Eastern countries under the Belt and Road Initiative”. _PLOS One_ November 9, 2023
 [https://doi.org/10.1371/journal.pone.0293426](https://doi.org/10.1371/journal.pone.0293426) 
 
-Schon, Justin, and Jeffrey C. Johnson. “How inter-state amity and animosity complement migration networks to drive refugee flows: A multi-layer network analysis, 1991–2016”. P_LOS One_ January 27, 2021 [https://doi.org/10.1371/journal.pone.0245712](https://doi.org/10.1371/journal.pone.0245712)  
+Schon, Justin, and Jeffrey C. Johnson. “How inter-state amity and animosity complement migration networks to drive refugee flows: A multi-layer network analysis, 1991–2016”. _PLOS One_ January 27, 2021 [https://doi.org/10.1371/journal.pone.0245712](https://doi.org/10.1371/journal.pone.0245712)  
 
 
 ## List of other articles   
