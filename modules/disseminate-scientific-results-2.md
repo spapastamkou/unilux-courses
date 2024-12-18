@@ -22,7 +22,7 @@ If you are unable to use the article, the instructors of the class will provide 
 
 ## Assignment 2
 
-Pick one of the articles from the list below: [List of data articles](#list-of-articles).
+Pick one of the articles from the list below: [List of data articles](#list-of-articles) or any article you prefer from the [Journal of Digital History](https://journalofdigitalhistory.org/en).
 
 Examine the structure of the article and pay attention to the following elements: 
 
