@@ -88,6 +88,8 @@ An item does not inherit the tags of the notes that can be attached to it, if th
 
 ### Add citations
 
+https://www.zotero.org/support/word_processor_plugin_installation
+
 ### Create a group library
 
 ## Exercices 
