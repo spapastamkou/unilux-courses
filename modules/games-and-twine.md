@@ -44,6 +44,111 @@ Use the following prompt:
 
 You will obtain a scenario for a game as output. If you are happy with it, use it to build a game on Twinery following the instructions you found in the Programming Historian lesson or the video tutorial. 
 
+### Example of output from Claude AI
+
+Input text: Irene Portas Vázquez. When Italian communists inhabited the Minett. Minett Stories. https://minett-stories.lu/en/story/when-italian-communists-inhabited-the-minett 
+
+#### **Twine Storyboard: "Crossing Borders - A Communist Courier in the Minett, 1929"**
+
+#### **Setup:**
+Player role: Luigi, an Italian migrant worker and communist sympathizer in the Minett region, 1929
+
+#### **PASSAGE MAP (10 nodes total):**
+
+
+**NODE 1: START - "The Package"**
+*Text:* 
+"Esch-sur-Alzette, March 1929. You're Luigi, an Italian worker at the Rodange factory. Your comrade hands you a package wrapped in oilcloth—copies of *Il Riscatto* smuggled from Brussels. 'These need to reach our cell in Villerupt tonight,' he whispers. 'Police patrols have increased.' Your shift ended an hour ago. You're exhausted, but the newspapers must get through."
+
+**QUESTION 1: How will you transport the newspapers across the border?**
+- **Choice A:** "Through the mine galleries" → GO TO NODE 2
+- **Choice B:** "Through the forest path near Rumelange" → GO TO NODE 3
+
+
+
+**NODE 2: "Underground Route"**
+*Text:*
+"You descend into the Heintzenberg mine after hours. The interconnected galleries cross beneath the border—iron ore and ideas travel the same paths. The air is damp and cold. Halfway through, you hear voices echoing. Are they miners working late or police conducting a search?"
+
+**QUESTION 2: What do you do?**
+- **Choice A:** "Hide the package and pretend to be a lost worker" → GO TO NODE 4
+- **Choice B:** "Push forward quickly through a side gallery" → GO TO NODE 5
+
+
+
+**NODE 3: "Forest Meeting"**
+*Text:*
+"You take the woodland path where the cell holds secret meetings. The March evening is cold. As you approach the border marker hidden among the trees, you spot two figures ahead—are they comrades or police informants? The fascist associations have spies everywhere."
+
+**QUESTION 2: What do you do?**
+- **Choice A:** "Whistle the recognition signal" → GO TO NODE 6
+- **Choice B:** "Wait and observe from the shadows" → GO TO NODE 7
+
+
+
+**NODE 4: "ENDING - Detained"**
+*Text:*
+"The voices belong to Luxembourg police officers. They find *Il Riscatto* hidden in your jacket. Within a week, you receive an expulsion order. Like 252 other Italians in 1929, you must leave Luxembourg. Your family stays behind. The network continues without you, but your role in it ends here."
+
+*Historical note: Immigration laws were used extensively to expel communist militants.*
+
+
+
+**NODE 5: "ENDING - Successful Delivery"**
+*Text:*
+"You emerge on the French side. Your contact in Villerupt receives the newspapers—they'll be distributed at the factory tomorrow. 'The proletarian strength resides in its organisation,' he reminds you. You've kept the network alive for another week, but you know the risks grow daily."
+
+*Historical note: Cross-border mine galleries were crucial for smuggling communist propaganda.*
+
+
+
+**NODE 6: "Recognition"**
+*Text:*
+"Your whistle is answered correctly. The figures are comrades from the Longwy cell. They've brought funding collected by the International Red Aid for families of expelled militants. Together, you cross into France safely."
+
+**QUESTION 3: At the Villerupt meeting, what do you discuss?**
+- **Choice A:** "Organizing a May Day demonstration despite the ban" → GO TO NODE 8
+- **Choice B:** "Creating more clandestine cells inside the factories" → GO TO NODE 9
+
+
+
+**NODE 7: "ENDING - Close Call"**
+*Text:*
+"From the shadows, you recognize one figure—a fascist spy from Caffé Piccioni in Esch. The second is a French gendarme. You retreat silently, taking a longer route. The newspapers reach Villerupt by dawn, delivered through another comrade's mine route. You've survived, but the Opera Bonomelli's cooperation with police grows stronger."
+
+*Historical note: Fascist organizations collaborated with Luxembourg authorities to monitor communists.*
+
+
+
+**NODE 8: "ENDING - The Demonstration"**
+*Text:*
+"May 1st, 1931: Despite the ban, 200 workers march through Esch carrying banners reading 'Higher Wages' and 'Against the Immigration Law.' Police block the route, but the demonstration makes the front page of *Il Riscatto*. Some comrades receive expulsion orders, but the movement gains visibility. You've chosen open resistance over secrecy."
+
+*Historical note: Communist May Day demonstrations did occur despite government bans.*
+
+
+
+**NODE 9: "ENDING - Building the Network"**
+*Text:*
+"Over the following months, new cells emerge in Dudelange's rolling mill and Collart mine. When the 1929 crisis hits and factories cut to four-day weeks, your network is ready. You distribute tracts condemning 'mass expulsions' and wage cuts. The long arm of the law eventually catches up—but not before the seeds are planted."
+
+*Historical note: The 1929 crisis led to partial unemployment and mass expulsions of foreign workers.*
+
+
+**STRUCTURE SUMMARY:**
+- **3 Questions** with binary choices
+- **6 possible endings** (nodes 4, 5, 7, 8, 9)
+- **10 total passages**
+- **Average playthrough:** 4-5 nodes
+- **Build time:** 30 minutes (simple linking, minimal formatting needed)
+
+**Learning Objectives Met:**
+✓ Non-linear narrative (multiple paths)
+✓ Meaningful choices with historical consequences
+✓ Different endings based on decisions
+✓ Practice creating links between passages
+
+
 ## Final class assignment
 
 This assignment was conceived by Eliane Schmid. 
