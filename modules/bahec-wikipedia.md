@@ -69,7 +69,11 @@ Seite „Luxemburg im Zweiten Weltkrieg“. In: Wikipedia – Die freie Enzyklop
 	* consulter la bibliographie fournie dans chaque article 
 	* explorer les onglets qui sont fournis dans chaque page: y voyez-vous des fonctionnalités qui permettent de contrôler de manière critique les contenus (qui écrit quoi, quand, dans quel objectif et pour qui)? 
 
+## Discuter, réfléchir
 
+* Quels sont vos propres usages de Wikipédia? 
+* Si vous enseignez, êtes-vous susceptible d'intégrer Wikipédia dans vos enseignements? Comment le cas échéant?
+* En historien(ne), sentez-vous bien armé(e) pour appliquer une approche critique aux contenus de Wikipédia? Y voyez-vous des spécificités en comparaison à des sources plus traditionnelles? Réfléchissez à ce que le numérique fait aux sources de l'historien(ne) à l'aide de l'exemple de Wikipédia et quelles compétences particulières doivent être mobilisées. 
 
 
 
