@@ -52,6 +52,14 @@ URL: https://lb.wikipedia.org/wiki/Haapts%C3%A4it
 
 Parcourir le portail d'histoire sur Wikipedia lb: https://lb.wikipedia.org/wiki/Portal:Geschicht 
 
+### Lire pour aller plus loin
+
+Wikipédia Luxembourg en quête de contributeurs et plus de liberté. *Virgule*. 21 octobre 2024 https://www.virgule.lu/luxembourg/wikipedia-luxembourg-en-quete-de-contributeurs-et-plus-de-liberte/23612420.html 
+
+Qui se cache derrière le Wikipédia en luxembourgeois?. *L'essentiel*. 24 septembre 2024 https://www.lessentiel.lu/fr/story/au-luxembourg-qui-se-cache-derriere-le-wikipedia-en-luxembourgeois-103190442
+
+Wikipédia compte 50.000 articles en luxembourgeois. 11 septembre 2017. *Virgule*. https://www.virgule.lu/culture/wikipedia-compte-50-000-articles-en-luxembourgeois/258465.html 
+
 ##  Contextualiser, comparer les points de vue wikipédiens sur un évènement historique
 
 Wikipedia-Bearbeiter, "Lëtzebuerg am Zweete Weltkrich," Wikipedia, https://lb.wikipedia.org/w/index.php?title=L%C3%ABtzebuerg_am_Zweete_Weltkrich&oldid=2670314 (abgerufen am 7. Mee 2026).
@@ -74,6 +82,8 @@ Seite „Luxemburg im Zweiten Weltkrieg“. In: Wikipedia – Die freie Enzyklop
 * Quels sont vos propres usages de Wikipédia? 
 * Si vous enseignez, êtes-vous susceptible d'intégrer Wikipédia dans vos enseignements? Comment le cas échéant?
 * En historien(ne), sentez-vous bien armé(e) pour appliquer une approche critique aux contenus de Wikipédia? Y voyez-vous des spécificités en comparaison à des sources plus traditionnelles? Réfléchissez à ce que le numérique fait aux sources de l'historien(ne) à l'aide de l'exemple de Wikipédia et quelles compétences particulières doivent être mobilisées. 
+
+
 
 
 
