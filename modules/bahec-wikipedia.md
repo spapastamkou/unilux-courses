@@ -52,7 +52,7 @@ URL: https://lb.wikipedia.org/wiki/Haapts%C3%A4it
 
 Parcourir le portail d'histoire sur Wikipedia lb: https://lb.wikipedia.org/wiki/Portal:Geschicht 
 
-### Lire pour aller plus loin
+### Lire
 
 Wikipédia Luxembourg en quête de contributeurs et plus de liberté. *Virgule*. 21 octobre 2024 https://www.virgule.lu/luxembourg/wikipedia-luxembourg-en-quete-de-contributeurs-et-plus-de-liberte/23612420.html 
 
@@ -82,6 +82,10 @@ Seite „Luxemburg im Zweiten Weltkrieg“. In: Wikipedia – Die freie Enzyklop
 * Quels sont vos propres usages de Wikipédia? 
 * Si vous enseignez, êtes-vous susceptible d'intégrer Wikipédia dans vos enseignements? Comment le cas échéant?
 * En historien(ne), sentez-vous bien armé(e) pour appliquer une approche critique aux contenus de Wikipédia? Y voyez-vous des spécificités en comparaison à des sources plus traditionnelles? Réfléchissez à ce que le numérique fait aux sources de l'historien(ne) à l'aide de l'exemple de Wikipédia et quelles compétences particulières doivent être mobilisées. 
+
+### Lire 
+
+Wikipédia: Projets pédagogiques https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Projets_p%C3%A9dagogiques
 
 
 
