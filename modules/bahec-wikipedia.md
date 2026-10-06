@@ -37,7 +37,7 @@ Mexis, Anna et Camille Renard. À l’origine de Wikipédia, l’opposition entr
 
 Animation vidéo de la leçon sur Ranke.2 https://ranke2.uni.lu/fr/u/wikipedia-historical-source/ 
 
-Wikipedia, history, and historians. Intelligent Channel, 21 December 2013 (2:47). https://youtu.be/S-Yj7V6d54Q 
+Wikipedia, history, and historians. Intelligent Channel, 21 December 2013. https://youtu.be/S-Yj7V6d54Q 
 
 **Discuter:**
 
@@ -48,9 +48,12 @@ Wikipedia, history, and historians. Intelligent Channel, 21 December 2013 (2:47)
 
 URL: https://lb.wikipedia.org/wiki/Haapts%C3%A4it
 
-67.240 articles, 137 contributeurs actifs 
+67 993 articles, 112 contributeurs actifs 
 
-Parcourir le portail d'histoire sur Wikipedia lb: https://lb.wikipedia.org/wiki/Portal:Geschicht 
+Parcourir le portail d'histoire sur Wikipedia lb: https://lb.wikipedia.org/wiki/Portal:Geschicht
+* Selon les thèmes mis en avant, quels semblent être les intérêts principaux de Wikipédia Luxembourg?
+
+Lire les articles ci-dessous et faire une brève présentation de la naissance et de l'évolution de Wikipédia Luxembourg. 
 
 ### Lire
 
@@ -77,11 +80,12 @@ Seite „Luxemburg im Zweiten Weltkrieg“. In: Wikipedia – Die freie Enzyklop
 	* consulter la bibliographie fournie dans chaque article 
 	* explorer les onglets qui sont fournis dans chaque page: y voyez-vous des fonctionnalités qui permettent de contrôler de manière critique les contenus (qui écrit quoi, quand, dans quel objectif et pour qui)? 
 
-## Discuter, réfléchir
+## À l'issue de cette leçon, discuter, réfléchir
 
 * Quels sont vos propres usages de Wikipédia? 
 * Si vous enseignez, êtes-vous susceptible d'intégrer Wikipédia dans vos enseignements? Comment le cas échéant?
-* En historien(ne), sentez-vous bien armé(e) pour appliquer une approche critique aux contenus de Wikipédia? Y voyez-vous des spécificités en comparaison à des sources plus traditionnelles? Réfléchissez à ce que le numérique fait aux sources de l'historien(ne) à l'aide de l'exemple de Wikipédia et quelles compétences particulières doivent être mobilisées. 
+* En historien(ne), sentez-vous bien armé(e) pour appliquer une approche critique aux contenus de Wikipédia? Y voyez-vous des spécificités en comparaison à des sources plus traditionnelles?
+* Réfléchissez à ce que le numérique fait aux sources de l'historien(ne) à l'aide de l'exemple de Wikipédia et quelles compétences particulières doivent être mobilisées. 
 
 ### Lire 
 
