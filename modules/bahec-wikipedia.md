@@ -48,7 +48,7 @@ Wikipedia, history, and historians. Intelligent Channel, 21 December 2013. https
 
 URL: https://lb.wikipedia.org/wiki/Haapts%C3%A4it
 
-67 993 articles, 112 contributeurs actifs 
+67 993 articles, 112 contributeurs actifs au 6 octobre 2026.  
 
 Parcourir le portail d'histoire sur Wikipedia lb: https://lb.wikipedia.org/wiki/Portal:Geschicht
 * Selon les thèmes mis en avant, quels semblent être les intérêts principaux de Wikipédia Luxembourg?
@@ -78,7 +78,23 @@ Seite „Luxemburg im Zweiten Weltkrieg“. In: Wikipedia – Die freie Enzyklop
 	* lire au moins deux des articles - si le temps ne suffit pas, lire l'introduction et/ou une section choisie, par exemple sur la résistance: trouvez-vous des similitudes et des différences?  
 * Contextualiser: 
 	* consulter la bibliographie fournie dans chaque article 
-	* explorer les onglets qui sont fournis dans chaque page: y voyez-vous des fonctionnalités qui permettent de contrôler de manière critique les contenus (qui écrit quoi, quand, dans quel objectif et pour qui)? 
+	* explorer les onglets qui sont fournis dans chaque page: y voyez-vous des fonctionnalités qui permettent de contrôler de manière critique les contenus (qui écrit quoi, quand, dans quel objectif et pour qui) et leur évolution dans le temps?
+
+## Contribuer à Wikipédia en historien, historienne
+
+Consulter la page [Wikipedia:Benelux Education Program/University of Luxembourg](https://en.wikipedia.org/wiki/Wikipedia:Benelux_Education_Program/University_of_Luxembourg)
+* Parcourir la liste de contributions et faire un brève présentation: historique, orientation thématique, principaux acteurs
+* Chercher à définir le contexte de ce programme: est-ce un programme indépendant ou se place-t-il dans un cadre plus large (régional ou autre?) et comment? 
+
+Maintenant consulter [la liste des notices faites en 2026](https://en.wikipedia.org/wiki/Wikipedia:Benelux_Education_Program/University_of_Luxembourg/2026) dans le cadre du projet de recherche [Digshell](https://www.uni.lu/c2dh-en/research-projects/digshell/).
+* Parcourir la liste des notices et faire une brève présentaiton: types de contributions, langue(s), orientation thématique
+* Voyez-vous une affinitié thématique avec les intérpets de recherche du projet Digshell?
+* Le projet Digshell est financé par des fonds publics. Réfléchir et discuter du lien entre recherche financée par des fonds publics et restitution de résultats de recherche directement à la société à l'aide de dispositifs ouverts comme Wikipédia - penser à termes d'accès, par exemple.
+
+### Lire 
+
+Wikipédia: Projets pédagogiques https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Projets_p%C3%A9dagogiques
+
 
 ## À l'issue de cette leçon, discuter, réfléchir
 
@@ -87,9 +103,7 @@ Seite „Luxemburg im Zweiten Weltkrieg“. In: Wikipedia – Die freie Enzyklop
 * En historien(ne), sentez-vous bien armé(e) pour appliquer une approche critique aux contenus de Wikipédia? Y voyez-vous des spécificités en comparaison à des sources plus traditionnelles?
 * Réfléchissez à ce que le numérique fait aux sources de l'historien(ne) à l'aide de l'exemple de Wikipédia et quelles compétences particulières doivent être mobilisées. 
 
-### Lire 
 
-Wikipédia: Projets pédagogiques https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Projets_p%C3%A9dagogiques
 
 
 
