@@ -18,7 +18,7 @@ En allemand: Wikipedia als Quelle für historisches Wissen: Anwendung der digita
 Quellenkritik. https://ranke2.uni.lu/de/u/wikipedia-historical-source/
 
 
-## Comprendre la naissance de Wikipédia  
+## 1 Comprendre la naissance de Wikipédia  
 
 **Regarder:** 
 
@@ -31,7 +31,7 @@ Mexis, Anna et Camille Renard. À l’origine de Wikipédia, l’opposition entr
 * Pouvez-vous identifier des facteurs qui ont été importants dans la transition d'un modèle traditionnel d'encyclopédie vers le modèle de Wikipédia (économiques, culturels, technologiques...)? Pouvez-vous identifier des catalyseurs? 
 * Que révèle le différend entre les principaux acteurs qui ont mis en place Wikipédia? Y voyez-vous différentes conceptions de la construction des savoirs?  
 
-## Pourquoi s'intéresser à Wikipédia en historien/historienne 
+## 2 Pourquoi s'intéresser à Wikipédia en historien, historienne 
 
 **Regarder:** 
 
@@ -44,7 +44,7 @@ Wikipedia, history, and historians. Intelligent Channel, 21 December 2013. https
 * De quelles manières peut-on utiliser Wikipédia en historien(ne)?
 * Peut-on se servir de Wikipédia pour la recherche historique? Le cas échéant, à quel genre de questions pourrait-elle répondre? 
 
-##  Wikipedia op Lëtzebuergesch
+## 3  Wikipedia op Lëtzebuergesch
 
 URL: https://lb.wikipedia.org/wiki/Haapts%C3%A4it
 
@@ -53,7 +53,9 @@ URL: https://lb.wikipedia.org/wiki/Haapts%C3%A4it
 Parcourir le portail d'histoire sur Wikipedia lb: https://lb.wikipedia.org/wiki/Portal:Geschicht
 * Selon les thèmes mis en avant, quels semblent être les intérêts principaux de Wikipédia Luxembourg?
 
-Lire les articles ci-dessous et faire une brève présentation de la naissance et de l'évolution de Wikipédia Luxembourg. 
+Lire les articles ci-dessous et faire une brève présentation de la naissance et de l'évolution de Wikipédia Luxembourg.
+
+Réfléchir sur ce que Wikipédia représente pour les multilinguisme sur le web et la présence de petites langues. 
 
 ### Lire
 
@@ -63,7 +65,7 @@ Qui se cache derrière le Wikipédia en luxembourgeois?. *L'essentiel*. 24 septe
 
 Wikipédia compte 50.000 articles en luxembourgeois. 11 septembre 2017. *Virgule*. https://www.virgule.lu/culture/wikipedia-compte-50-000-articles-en-luxembourgeois/258465.html 
 
-##  Contextualiser, comparer les points de vue wikipédiens sur un évènement historique
+##  4 Contextualiser, comparer les points de vue wikipédiens sur un évènement historique
 
 Wikipedia-Bearbeiter, "Lëtzebuerg am Zweete Weltkrich," Wikipedia, https://lb.wikipedia.org/w/index.php?title=L%C3%ABtzebuerg_am_Zweete_Weltkrich&oldid=2670314 (abgerufen am 7. Mee 2026).
 
@@ -80,7 +82,7 @@ Seite „Luxemburg im Zweiten Weltkrieg“. In: Wikipedia – Die freie Enzyklop
 	* consulter la bibliographie fournie dans chaque article 
 	* explorer les onglets qui sont fournis dans chaque page: y voyez-vous des fonctionnalités qui permettent de contrôler de manière critique les contenus (qui écrit quoi, quand, dans quel objectif et pour qui) et leur évolution dans le temps?
 
-## Contribuer à Wikipédia en historien, historienne
+## 5 Contribuer à Wikipédia en historien, historienne
 
 Consulter la page [Wikipedia:Benelux Education Program/University of Luxembourg](https://en.wikipedia.org/wiki/Wikipedia:Benelux_Education_Program/University_of_Luxembourg)
 * Parcourir la liste de contributions et faire un brève présentation: historique, orientation thématique, principaux acteurs
@@ -96,7 +98,7 @@ Maintenant consulter [la liste des notices faites en 2026](https://en.wikipedia.
 Wikipédia: Projets pédagogiques https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Projets_p%C3%A9dagogiques
 
 
-## À l'issue de cette leçon, discuter, réfléchir
+## 6 À l'issue de cette leçon, discuter, réfléchir
 
 * Quels sont vos propres usages de Wikipédia? 
 * Si vous enseignez, êtes-vous susceptible d'intégrer Wikipédia dans vos enseignements? Comment le cas échéant?
