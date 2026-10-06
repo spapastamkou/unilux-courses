@@ -98,7 +98,24 @@ Maintenant consulter [la liste des notices faites en 2026](https://en.wikipedia.
 Wikipédia: Projets pédagogiques https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Projets_p%C3%A9dagogiques
 
 
-## 6 À l'issue de cette leçon, discuter, réfléchir
+## 6 Wikipédia à l’ère de l’intelligence artificielle générative: défis, perspectives
+
+Regarder la courte vidéo: Wikipedia. "Pourquoi a-t-on besoin de Wikipédia si l'IA répond à tout ?" YouTube vidéo. 9 juillet 2026. Accessible à https://youtu.be/14eXH0x44oo 
+
+Lire l'article: Wikipedia bans AI-generated content in its online encyclopedia. *The Guardian*. 27 mars 2026. https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai
+
+* Identifier les principaux défis pour Wikipédia
+* Quels modèles d'accès aux connaissances sont en présence?  
+
+
+### Lire 
+DW News. The future of Wikipedia in an AI-driven web. 16 janvier 2026. YouTube vidéo. https://youtu.be/K53p40WDVIs
+
+Chris Albon and Leila Zia. Our new AI strategy puts Wikipedia’s humans first. *Wikimedia Foundation*. 30 April 2025 https://wikimediafoundation.org/news/2025/04/30/our-new-ai-strategy-puts-wikipedias-humans-first/ 
+
+Strategy/Multigenerational/Artificial intelligence for editors. Wikimedia Meta-Wiki https://meta.wikimedia.org/wiki/Strategy/Multigenerational/Artificial_intelligence_for_editors
+
+## 7 À l'issue de cette leçon, discuter, réfléchir
 
 * Quels sont vos propres usages de Wikipédia? 
 * Si vous enseignez, êtes-vous susceptible d'intégrer Wikipédia dans vos enseignements? Comment le cas échéant?
