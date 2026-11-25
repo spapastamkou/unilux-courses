@@ -32,7 +32,20 @@ Prompt 1
 
 *Once you get the output. Inspect the answer and evaluate it.*
 
-![Access the data output](/assets/images/ai-prompt-engineering-and-rag/copilot-output-access-data.png) 
+![Access the data output](/assets/images/ai-prompt-engineering-and-rag/copilot-output-access-data.png)
+
+Problem: the content of the scientific articles is behind a paywall, thus not accessible. The data they contain, which are primary sources for my research, are not accessible either. 
+
+The response that I get explains these limits: 
+* Says it cannot reliably produce the counts I ask (LLM evaluates the answer and warns about its limits)
+* Gives elements of an answer that it can reconstruct with confidence - problem here is: answer is based on reports available in secondary literature and not analyse of the primary data. (==> which is what a historian must NOT do). 
+* Guides me as to what I need to do in order for it to do what I want: upload scans of data (dataset)     
+
+![Upload the scans output](/assets/images/ai-prompt-engineering-and-rag/copilot-output-guidance.png)
+
+* New (big) problem: impossible to upload a corpus because of limits of use of the chatbot. 3 out of 5 PDFs uploaded, which makes my effort incomplete: I cannot continue a serious analysis of my sources. 
+
+![Limit uploads](/assets/images/ai-prompt-engineering-and-rag/copilot-input-limit-uploads.png)
 
 
 
