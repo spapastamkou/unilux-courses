@@ -59,17 +59,17 @@ RAG - for Retrieval augmented generation - can be an answer to needs like this.
 
 ### What is RAG? what does it do?  
 
-RAG is a technique, a framework. (see with Mehrdad) 
+RAG is a method, framework, solution...
 
 An LLM is based on big quantities of data but these data are generic. What does RAG?  
 
-RAG provides specific data to an LLM so that the LLM is able to retrieve information that is relevant to a given query. In other words, if you wish to obtain information relevant to a historical research, you must connect relevant materials to the LLM you use. How is this done?
+RAG provides specific data to an LLM so that the user is able to retrieve information that is relevant to the user's given query (prompt, question). In other words, if you wish to obtain information relevant to a historical research, you must connect relevant materials to the LLM you use. How is this done?
 
-RAG is based on semantic similarity (retrieves text chunks based on semantic similarity). 
+RAG is based on semantic similarity search (retrieves text chunks based on semantic similarity). 
 
 (See following section, presentation of Mehrdad)
 
-GraphRAG is an advanced form of RAG.
+GraphRAG is an advanced form of RAG designed by researchers affiliated with Microsoft.
 GraphRAG is based on knowledge networks. Retrieves information based on connections. (see with Mehrdad).  
 
 
@@ -77,12 +77,12 @@ GraphRAG is based on knowledge networks. Retrieves information based on connecti
 
 ### Hands on 
 
-Explore the corpus of PDFs GraphRAG: http://10.240.26.115:8055/ (see with Mehrdad - will this be available to students?)
+Explore the [corpus of PDFs GraphRAG](http://10.240.26.115:8055/) 
+
+Explore the [corpus of posters](http://10.240.26.115:8060/) of the student protests in Québec in 2012
 
 
-
-
-
+2d clip https://leoimpett.github.io/2dclip/
 
 
 ## Prompting 
@@ -92,7 +92,9 @@ Prompt engineering: what is it
 
 References to use: 
 
+Moritz Mähr https://maehr.github.io/critical-ai-literacy-for-historians/en/exercises/prompt-engineering.html#prompt-basics
 
+Best Practices for Prompting for 2026. Claude, 10 November 2025, https://claude.com/fr/resources/articles/best-practices-for-prompt-engineering.
 
 
 
@@ -104,3 +106,6 @@ Moritz Mähr. *Critical AI Literacy for Historians*. https://maehr.github.io/cri
 
 Best Practices for Prompting for 2026. Claude, 10 November 2025, https://claude.com/fr/resources/articles/best-practices-for-prompt-engineering.
 
+IBM Technology. 7 AI Terms You Need to Know: Agents, RAG, ASI & More. 1st September 2025. YouTube video https://youtu.be/VSFuqMh4hus  
+
+IBM Technology. What is Retrieval-Augmented Generation (RAG)? 23 August 2023. YouTube video. https://youtu.be/T-D1OfcDW1M 
