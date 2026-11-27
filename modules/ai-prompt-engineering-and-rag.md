@@ -74,7 +74,8 @@ In conclusion, what I have here is: specific problems when interacting with LLMs
 
 * I encounter limits due to generic nature LLMs data, restrictions due to their commercial nature, problems due to accessibility of sources, format of source data...
 * I need to ground the LLM's answers to specific sources
-* I need to connect these sources to the LLM so that it takes them into account in its output 
+* I need to connect these sources to the LLM so that it takes them into account in its output
+* How to work with bigger data? Scalability problem.  
 
 ## RAG
 
@@ -86,7 +87,7 @@ RAG is a method, framework, solution...
 
 An LLM is based on big quantities of data but these data are generic. What does RAG?  
 
-RAG provides specific data to an LLM so that the user is able to retrieve information that is relevant to the user's given query (prompt, question). In other words, if you wish to obtain information relevant to a historical research, you must connect relevant materials to the LLM you use. 
+RAG provides specific, new, and unknpwn data to an LLM so that the user is able to retrieve information that is relevant to the user's given query (prompt, question). In other words, if you wish to obtain information relevant to a historical research, you must provide relevant materials for the LLM to process them. 
 What RAG does: it is based on **semantic similarity** search and retrieves text **chunks** based on semantic similarity.
 
 * *Semantic similarity is [how close two terms, sentences, or documents are in meaning](https://en.wikipedia.org/wiki/Semantic_similarity). This is achieved with the use of embeddings and knowledge graphs. 
