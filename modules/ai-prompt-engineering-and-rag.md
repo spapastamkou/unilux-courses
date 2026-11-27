@@ -98,7 +98,7 @@ An LLM is based on big quantities of data but these data are generic. What does 
 RAG provides specific, new, and unknpwn data to an LLM so that the user is able to retrieve information that is relevant to the user's given query (prompt, question). In other words, if you wish to obtain information relevant to a historical research, you must provide relevant materials for the LLM to process them. 
 What RAG does: it is based on **semantic similarity** search and retrieves text **chunks** with high scored of semantic similarity.
 
-* *Semantic similarity is [how close two terms, sentences, or documents are in meaning](https://en.wikipedia.org/wiki/Semantic_similarity). This is achieved with the use of embeddings and knowledge graphs. 
+* *Semantic similarity is [how close two terms, sentences, or documents are in meaning](https://en.wikipedia.org/wiki/Semantic_similarity). This is achieved with the use of embeddings and knowledge graphs.* 
 * *Text chunking is [the process of splitting a text into smaller pieces](https://graphrag.com/guides/chunking/)* 
 
 GraphRAG is an advanced form of RAG designed by researchers affiliated with Microsoft.
