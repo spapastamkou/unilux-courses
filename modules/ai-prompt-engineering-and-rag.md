@@ -101,6 +101,7 @@ GraphRAG is based on knowledge networks. Retrieves information based on connecti
 
 ### Presentation of Mehrdad Almasi 
 
+[Slides RAG](/assets/data/ai-rag/RAG_.pptx)
 
 ### Hands on activity 2 - Exploring dataset 1 with GraphRAG
 
