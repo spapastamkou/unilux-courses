@@ -12,13 +12,36 @@ Essentially, we will talk about how to best interact with LLMs as historians.
 
 In what purpose? To efficiently work with our sources. 
 
-### Exploring a small corpus of historical data with a chatbot (CoPilot)
+## Datasets
 
-Description: 
+We work with one dataset containing texts and one dataset containing images. 
 
-Go to CoPilot or another chatbot. 
+### Dataset 1: articles on the surveys of Computers and the Humanities
+
+5 surveys of the journal Computers and the Humanities from 1971 to 1987 to gather information on the first ever courses introduced in the higher education on use of computers in the humanities. 
+
+Results, data and analysis of each survey available in 5 articles. These five articles, in PDF format, are dataset 1. 
+
+### Dataset 2: corpus of posters of Printemps érable
+
+Dataset: posters of the 2012 student protests in Montréal, Canada. [URL](https://zenodo.org/records/13936156) 
+
+The dataset was extracted from the website Printemps érable archives https://www.printempserable.net/ 
+
+If necessary, consult the Wikipedia article to know more about the context: the 2012 student protests in Montréal known as Printemps érable: https://en.wikipedia.org/wiki/2012_Quebec_student_protests This is not required for the course.  
+
+### Hands on activity 1 - Exploring dataset 1 with a chatbot (CoPilot)
+
+Description:
+
+Download the five articles on the surveys of Computers and the Humanities and make sure you have them on your machine.  
+
+Go to CoPilot or another chatbot. We are going to work with simple zero-shot prompts.
+
 
 Prompt 1
+
+*To situate what we do in the workflow of historical research: we are in the phase of heuristics (search)*
 
 * Provide information about the surveys of Computers and the Humanities on teaching computers in the humanities (1971-1987).
 
@@ -63,21 +86,30 @@ RAG is a method, framework, solution...
 
 An LLM is based on big quantities of data but these data are generic. What does RAG?  
 
-RAG provides specific data to an LLM so that the user is able to retrieve information that is relevant to the user's given query (prompt, question). In other words, if you wish to obtain information relevant to a historical research, you must connect relevant materials to the LLM you use. How is this done?
+RAG provides specific data to an LLM so that the user is able to retrieve information that is relevant to the user's given query (prompt, question). In other words, if you wish to obtain information relevant to a historical research, you must connect relevant materials to the LLM you use. 
+What RAG does: it is based on **semantic similarity** search and retrieves text **chunks** based on semantic similarity.
 
-RAG is based on semantic similarity search (retrieves text chunks based on semantic similarity). 
-
-(See following section, presentation of Mehrdad)
+* *Semantic similarity is [how close two terms, sentences, or documents are in meaning](https://en.wikipedia.org/wiki/Semantic_similarity). This is achieved with the use of embeddings and knowledge graphs. 
+* *Text chunking is [the process of splitting a text into smaller pieces](https://graphrag.com/guides/chunking/)* 
 
 GraphRAG is an advanced form of RAG designed by researchers affiliated with Microsoft.
 GraphRAG is based on knowledge networks. Retrieves information based on connections. (see with Mehrdad).  
 
+(See following section, presentation of Mehrdad Almasi)
 
-### Presentation of Mehrdad
 
-### Hands on 
+### Presentation of Mehrdad Almasi 
+
+
+### Hands on activity 2 - Exploring dataset 1 with GraphRAG
 
 Explore the [corpus of PDFs GraphRAG](http://10.240.26.115:8055/) 
+
+
+
+
+### Hands on activity 3 - Exploring dataset 2 
+
 
 Explore the [corpus of posters](http://10.240.26.115:8060/) of the student protests in Québec in 2012
 
