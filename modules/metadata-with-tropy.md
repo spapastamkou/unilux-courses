@@ -13,8 +13,7 @@ Dataset: posters of the 2012 student protests in Montréal, Canada. [URL](https:
 
 * Browse the website Printemps érable archives https://www.printempserable.net/ to see the collection of posters in context
 * Consult the About page of the website to learn more about the event that triggered the initiative of creating the archive: https://www.printempserable.net/a-propos-about-us/ and the section explaining what is the Ecole de la montagne rouge https://www.printempserable.net/portfolio-item/edlmr/
-* Consult the Wikipedia article if you need to learn more on the 2012 student protests in Montréal known as Printemps érable: https://en.wikipedia.org/wiki/2012_Quebec_student_protests  et 
-
+* Consult the Wikipedia article if you need to learn more on the 2012 student protests in Montréal known as Printemps érable: https://en.wikipedia.org/wiki/2012_Quebec_student_protests  
 
 ### 2 Create a project with Tropy 
 
