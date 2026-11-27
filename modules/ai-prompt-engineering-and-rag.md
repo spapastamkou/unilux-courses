@@ -1,8 +1,8 @@
 ---
 title: AI - Introducing RAG for historians
 authors: 
-	- Sofia Papastamkou
-	- Mehrdad Almasi
+  - Sofia Papastamkou
+  - Mehrdad Almasi
 date: 2026-11-25 
 ---
 
